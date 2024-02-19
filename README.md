@@ -1,0 +1,1 @@
+This project is a copy of the landing page provided by The Odin Project.
