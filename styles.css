@@ -97,4 +97,47 @@ h5{
 
 
 /*Section 2*/
+.section-2{
+    background-color: white;
+    height: 450px;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
 
+.s2-header{
+    text-align: center;
+    font-size: 28px;
+    font-weight: extra-bold;
+    color: #1f2937;
+
+}
+
+.items{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    
+}
+
+.s2-item{
+    border: 2px solid #3881f600;
+    height: 350px;
+    width: 350px;
+    
+    
+}
+
+.s2-item-box{
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    height: 205px;
+    width: 200px;
+    margin: auto;
+}
+
+.s2-item-subtext{
+    text-align: center;
+}
+
+
+/*Section 3*/
